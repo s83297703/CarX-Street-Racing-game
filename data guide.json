@@ -5,27 +5,27 @@
       "cpa_title":"yandex",
       "cpa_sous_title":"yandex",
       "cpa_url":"yandex",
-      "show_cpa":true,
+      "show_cpa":false,
 
       "image_silder1":"https://wallpaper.dog/large/20487356.jpg",
       "image_silder2":"https://wallpaper.dog/large/20487356.jpg",
       "image_silder3":"https://wallpaper.dog/large/20487356.jpg",
         
         
-      "banner_type":"huawei",
-      "inter_type":"huawei",
-      "native_type":"huawei",
-      "reward_type":"huawei",
+      "banner_type":"yandex",
+      "inter_type":"yandex",
+      "native_type":"yandex",
+      "reward_type":"yandex",
       
 
       "ironsource_id":"jhd78302",
       "unity_id":"87320283",
      
 
-      "banner_yandex":"R-M-DEMO-300x50",
-      "native_yandex":"R-M-DEMO-interstitial",
-      "interstitial_yandex":"R-M-DEMO-native-i",
-      "rewarde_yandex":"R-M-DEMO-300x50",
+      "banner_yandex":"R-M-2182200-1",
+      "native_yandex":"R-M-2182200-2",
+      "interstitial_yandex":"R-M-2182200-3",
+      "rewarde_yandex":"R-M-2182200-4",
         
         
         "banner_huawei":"testw6vs28auh3",
