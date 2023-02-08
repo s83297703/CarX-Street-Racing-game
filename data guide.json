@@ -46,89 +46,45 @@
 
      
 
-      "banner_id_1":"R-M-2182200-1",
-      "interstitial_id_1":"R-M-2182200-3",
-      "reward_id_1":"R-M-2182200-4",
+      "banner_id_1":"ca-app-pub-3940256099942544/6300978111",
+      "interstitial_id_1":"ca-app-pub-3940256099942544/1033173712",
+      "reward_id_1":"ca-app-pub-3940256099942544/5354046379",
       "mrec_id_1":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_1":"R-M-2182200-2",
+      "native_id_1":"ca-app-pub-3940256099942544/2247696110",
     
 
+      "banner_id_2":"ca-app-pub-3940256099942544/6300978111",
+      "interstitial_id_2":"ca-app-pub-3940256099942544/1033173712",
+      "reward_id_2":"ca-app-pub-3940256099942544/5354046379",
+      "mrec_id_2":"ca-app-pub-3940256099942544/2247696110",
+      "native_id_2":"ca-app-pub-3940256099942544/2247696110",
     
-        "banner_id_2":"R-M-2182200-1",
-       "interstitial_id_2":"R-M-2182200-3",
-       "reward_id_2":"R-M-2182200-4",
-       "mrec_id_2":"ca-app-pub-3940256099942544/2247696110",
-       "native_id_2":"R-M-2182200-2",
-        
-        
-    
-      "banner_id_3":"R-M-2182200-1",
-      "interstitial_id_3":"R-M-2182200-3",
-      "reward_id_3":"R-M-2182200-4",
+      "banner_id_3":"ca-app-pub-3940256099942544/6300978111",
+      "interstitial_id_3":"ca-app-pub-3940256099942544/1033173712",
+      "reward_id_3":"ca-app-pub-3940256099942544/5354046379",
       "mrec_id_3":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_3":"R-M-2182200-2",
+      "native_id_3":"ca-app-pub-3940256099942544/2247696110",
     
-        
-        
-      "banner_id_4":"R-M-2182200-1",
-      "interstitial_id_4":"R-M-2182200-3",
-      "reward_id_4":"R-M-2182200-4",
+      "banner_id_4":"ca-app-pub-3940256099942544/6300978111",
+      "interstitial_id_4":"ca-app-pub-3940256099942544/1033173712",
+      "reward_id_4":"ca-app-pub-3940256099942544/5354046379",
       "mrec_id_4":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_4":"R-M-2182200-2",
+      "native_id_4":"ca-app-pub-3940256099942544/2247696110",
     
 
-     "banner_id_5":"R-M-2182200-1",
-      "interstitial_id_5":"R-M-2182200-3",
-      "reward_id_5":"R-M-2182200-4",
+     "banner_id_5":"ca-app-pub-3940256099942544/6300978111",
+      "interstitial_id_5":"ca-app-pub-3940256099942544/1033173712",
+      "reward_id_5":"ca-app-pub-3940256099942544/5354046379",
       "mrec_id_5":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_5":"R-M-2182200-2",
+      "native_id_5":"ca-app-pub-3940256099942544/2247696110"
     
   
     },
     "guideData": [
     {
-      "image_link": "https://iili.io/H0Wkc5x.jpg",
-      "title": "CarX-Street 1",
-        "text_Content": "CarX-Street is a racing game developed and published by CarX Technologies. The game is available on a variety of platforms including iOS, Android, and PC.",
-        "text_Content_1": "."
-
-
-      
-    },
-    {
-      "image_link": "https://iili.io/H0WkaJj.jpg",
-      "title": " CarX-Street 2",
-        "text_Content": "The game features realistic physics and handling, as well as a wide variety of cars and tracks to race on..",
-        "text_Content_1": "."
-
-
-
-      
-    },
-    {
-      "image_link": "https://iili.io/H0Wk7Ub.jpg",
-      "title": "CarX-Street 3",
-        "text_Content": "Players can compete in various types of races, including drift competitions, time trials, and traditional circuit races.",
-        "text_Content_1": "."
-
-
-
-      
-    }
-    ,{
-      "image_link": "https://iili.io/H0WklOQ.jpg",
-      "title": "CarX-Street 4",
-        "text_Content": "One of the key features of the game is its advanced physics engine, which simulates the behavior of the car and its tires on different types of surfaces.",
-        "text_Content_1": "."
-
-
-
-      
-    },
-    {
-      "image_link": "https://iili.io/H0Wk0bV.jpg",
-      "title": "CarX-Street 5",
-        "text_Content": "This allows for a high level of realism and immersion for the player, as well as providing a challenging and satisfying driving experience..",
+      "image_link": "https://iili.io/H0X9y6F.jpg",
+      "title": "Camera-Scanner 1",
+        "text_Content": "A camera scanner is a device that combines the functionality of a camera and a scanner. It is used to digitize physical documents, photographs, and other objects by capturing an image of them with a camera and then processing the image to create a digital file.",
         "text_Content_1": ""
 
 
@@ -136,20 +92,60 @@
       
     },
     {
-      "image_link": "https://iili.io/H0WkEzB.jpg",
-      "title": "CarX-Street 6",
-        "text_Content": "In addition to the realistic physics, CarX-Street also features a wide variety of cars to race with. Players can choose from a variety of real-world vehicles, including sports cars, muscle cars, and even off-road vehicles. Each car has its own unique handling characteristics and performance attributes, allowing players to experiment with different vehicles and find the one that best suits their driving style.",
-        "text_Content_1": "."
+      "image_link": "https://iili.io/H0XHd8J.jpg",
+      "title": "Camera-Scanner 2",
+        "text_Content": "There are several types of camera scanners available, each with its own set of features and capabilities. Some camera scanners are designed for use with a computer, while others are portable and can be used on the go. Some camera scanners are specifically designed for use with documents, while others are better suited for photographs or other types of objects.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://iili.io/H0WkGWP.jpg",
-      "title": "CarX-Street 7",
-        "text_Content": "The game also features a variety of tracks to race on, ranging from closed circuit tracks to open-world environments. Each track has its own unique layout and characteristics, providing a different challenge for the player. In addition, players can also customize their cars with a wide range of upgrades and tuning options, allowing them to fine-tune their vehicle to their liking.",
-        "text_Content_1": "."
+      "image_link": "https://iili.io/H0XHJaa.jpg",
+      "title": "Camera-Scanner 3",
+        "text_Content": "One popular type of camera scanner is the flatbed scanner. These scanners are designed to lay flat on a desk or table, and are typically used to scan documents, photographs, and other flat objects. They are often equipped with a glass platen, which is used to hold the item being scanned in place while the image is captured.",
+        "text_Content_1": ""
+
+
+
+      
+    }
+    ,{
+      "image_link": "https://iili.io/H0XH2yv.jpg",
+      "title": "Camera-Scanner 4",
+        "text_Content": "Another type of camera scanner is the sheet-fed scanner. These scanners are designed to feed a stack of documents through the device, automatically capturing an image of each one as it passes through. They are often used in offices and other environments where there is a large volume of documents that need to be scanned.",
+        "text_Content_1": ""
+
+
+
+      
+    },
+    {
+      "image_link": "https://iili.io/H0XHFuR.jpg",
+      "title": "Camera-Scanner 5",
+        "text_Content": "Some camera scanners are designed for use with a computer, while others are portable and can be used on the go. Some camera scanners are specifically designed for use with documents, while others are better suited for photographs or other types of objects.",
+        "text_Content_1": ""
+
+
+
+      
+    },
+    {
+      "image_link": "https://iili.io/H0XHKjp.jpg",
+      "title": "Camera-Scanner 6",
+        "text_Content": "Camera scanners can also be classified by their resolution, which is measured in dots per inch (dpi). The higher the resolution of a camera scanner, the better the quality of the digital image it produces. Camera scanners with a high resolution are best suited for capturing detailed images, such as photographs or artwork. Lower resolution camera scanners are better suited for scanning documents and other text-based materials.",
+        "text_Content_1": ""
+
+
+
+      
+    },
+    {
+      "image_link": "https://iili.io/H0XH2yv.jpg",
+      "title": "Camera-Scanner 7",
+        "text_Content": "Another important feature of camera scanners is their connectivity options. Some camera scanners connect to a computer via USB or other type of wired connection, while others connect wirelessly via Wi-Fi or Bluetooth. This allows the user to easily transfer the scanned images to a computer or other device for further processing or storage.",
+        "text_Content_1": ""
 
 
 
