@@ -1,129 +1,159 @@
 { "ADS":
     {
   
-      "cpa_image":"yandex",
-      "cpa_title":"yandex",
-      "cpa_sous_title":"yandex",
-      "cpa_url":"yandex",
-      "show_cpa":false,
-
-      "image_silder1":"https://wallpaper.dog/large/20487356.jpg",
-      "image_silder2":"https://wallpaper.dog/large/20487356.jpg",
-      "image_silder3":"https://wallpaper.dog/large/20487356.jpg",
-        
-        
-      "banner_type":"yandex",
-      "inter_type":"yandex",
-      "native_type":"yandex",
-      "reward_type":"yandex",
-      
-
-      "ironsource_id":"jhd78302",
-      "unity_id":"87320283",
      
 
-      "banner_yandex":"R-M-2182200-1",
-      "native_yandex":"R-M-2182200-2",
-      "interstitial_yandex":"R-M-2182200-3",
-      "rewarde_yandex":"R-M-2182200-4",
+      "banner_type_1":"yandex",
+      "inter_type_1":"yandex",
+      "inter_or_reward_1":"inter",
+      "native_type_1":"yandex",
+      "reward_type_1":"yandex",
+      "native_or_mrec_1":"native",
+
+      "banner_type_2":"yandex",
+      "inter_type_2":"yandex",
+      "inter_or_reward_2":"inter",
+      "native_type_2":"yandex",
+      "reward_type_2":"yandex",
+      "native_or_mrec_2":"native",
+
+     "banner_type_3":"yandex",
+      "inter_type_3":"yandex",
+      "inter_or_reward_3":"inter",
+      "native_type_3":"yandex",
+      "reward_type_3":"yandex",
+      "native_or_mrec_3":"native",
+
+      "banner_type_4":"yandex",
+      "inter_type_4":"yandex",
+      "inter_or_reward_4":"inter",
+      "native_type_4":"yandex",
+      "reward_type_4":"yandex",
+      "native_or_mrec_4":"native",
+
+       "banner_type_5":"yandex",
+      "inter_type_5":"yandex",
+      "inter_or_reward_5":"inter",
+      "native_type_5":"yandex",
+      "reward_type_5":"yandex",
+      "native_or_mrec_5":"native",
+
+     
+
+      "ironsource_id":"ca-app-pub56099942",
+      "unity_id":"ca-app-pub56099942",
+
+
+     
+
+      "banner_id_1":"R-M-2182200-1",
+      "interstitial_id_1":"R-M-2182200-3",
+      "reward_id_1":"R-M-2182200-4",
+      "mrec_id_1":"ca-app-pub-3940256099942544/2247696110",
+      "native_id_1":"R-M-2182200-2",
+    
+
+    
+        "banner_id_2":"R-M-2182200-1",
+       "interstitial_id_2":"R-M-2182200-3",
+       "reward_id_2":"R-M-2182200-4",
+       "mrec_id_2":"ca-app-pub-3940256099942544/2247696110",
+       "native_id_2":"R-M-2182200-2",
         
         
-        "banner_huawei":"testw6vs28auh3",
-        "interstitial_huawei":"teste9ih9j0rc3",
- 	"reward_huawei":"testx9dtjwj8hp",
-        "native_huawei":"testy63txaom86",
+    
+      "banner_id_3":"R-M-2182200-1",
+      "interstitial_id_3":"R-M-2182200-3",
+      "reward_id_3":"R-M-2182200-4",
+      "mrec_id_3":"ca-app-pub-3940256099942544/2247696110",
+      "native_id_3":"R-M-2182200-2",
+    
+        
+        
+      "banner_id_4":"R-M-2182200-1",
+      "interstitial_id_4":"R-M-2182200-3",
+      "reward_id_4":"R-M-2182200-4",
+      "mrec_id_4":"ca-app-pub-3940256099942544/2247696110",
+      "native_id_4":"R-M-2182200-2",
+    
 
-      
-       "banner_admob":"ca-app-pub-3940256099942544/6300978111",
-      "native_admob":"ca-app-pub-3940256099942544/2247696110",
-      "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
-      "rewarde_admob":"ca-app-pub-3940256099942544/5354046379",
-
-      "applovin_banner":"R-M-DEMO-300x50",
-      "applovin_interstitial":"R-M-DEMO-interstitial",
-      "applovin_reward":"R-M-DEMO-native-i",
-      "applovin_native":"R-M-DEMO-300x50",
-
-      "facebook_banner":"R-M-DEMO-interstitial",
-      "facebook_interstitial":"R-M-DEMO-native-i",
-      "facebook_reward":"R-M-DEMO-300x50",
-      "facebook_native":"R-M-DEMO-interstitial"
-
+     "banner_id_5":"R-M-2182200-1",
+      "interstitial_id_5":"R-M-2182200-3",
+      "reward_id_5":"R-M-2182200-4",
+      "mrec_id_5":"ca-app-pub-3940256099942544/2247696110",
+      "native_id_5":"R-M-2182200-2",
+    
   
     },
-    "skins": [
+    "guideData": [
     {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-      "likeNumbers": "222 LIKES",
-      "commentNumbers": " 333 COMMENTS",
-      "downloadNumbers": "444 DOWNLOADS",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
-       
+      "image_link": "https://iili.io/H0Wkc5x.jpg",
+      "title": "CarX-Street 1",
+        "text_Content": "CarX-Street is a racing game developed and published by CarX Technologies. The game is available on a variety of platforms including iOS, Android, and PC.",
+        "text_Content_1": "."
 
 
       
     },
     {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-      "likeNumbers": "222 LIKES",
-      "commentNumbers": " 333 COMMENTS",
-      "downloadNumbers": "444 DOWNLOADS",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
-       
+      "image_link": "https://iili.io/H0WkaJj.jpg",
+      "title": " CarX-Street 2",
+        "text_Content": "The game features realistic physics and handling, as well as a wide variety of cars and tracks to race on..",
+        "text_Content_1": "."
+
+
 
       
     },
     {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-      "likeNumbers": "222 LIKES",
-      "commentNumbers": " 333 COMMENTS",
-      "downloadNumbers": "444 DOWNLOADS",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
-       
+      "image_link": "https://iili.io/H0Wk7Ub.jpg",
+      "title": "CarX-Street 3",
+        "text_Content": "Players can compete in various types of races, including drift competitions, time trials, and traditional circuit races.",
+        "text_Content_1": "."
+
+
 
       
     }
     ,{
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-      "likeNumbers": "222 LIKES",
-      "commentNumbers": " 333 COMMENTS",
-      "downloadNumbers": "444 DOWNLOADS",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
-       
+      "image_link": "https://iili.io/H0WklOQ.jpg",
+      "title": "CarX-Street 4",
+        "text_Content": "One of the key features of the game is its advanced physics engine, which simulates the behavior of the car and its tires on different types of surfaces.",
+        "text_Content_1": "."
+
 
 
       
     },
     {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-      "likeNumbers": "222 LIKES",
-      "commentNumbers": " 333 COMMENTS",
-      "downloadNumbers": "444 DOWNLOADS",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
-       
+      "image_link": "https://iili.io/H0Wk0bV.jpg",
+      "title": "CarX-Street 5",
+        "text_Content": "This allows for a high level of realism and immersion for the player, as well as providing a challenging and satisfying driving experience..",
+        "text_Content_1": ""
+
+
+
+      
     },
     {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-      "likeNumbers": "222 LIKES",
-      "commentNumbers": " 333 COMMENTS",
-      "downloadNumbers": "444 DOWNLOADS",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
-     
+      "image_link": "https://iili.io/H0WkEzB.jpg",
+      "title": "CarX-Street 6",
+        "text_Content": "In addition to the realistic physics, CarX-Street also features a wide variety of cars to race with. Players can choose from a variety of real-world vehicles, including sports cars, muscle cars, and even off-road vehicles. Each car has its own unique handling characteristics and performance attributes, allowing players to experiment with different vehicles and find the one that best suits their driving style.",
+        "text_Content_1": "."
+
+
+
+      
     },
     {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-      "likeNumbers": "222 LIKES",
-      "commentNumbers": " 333 COMMENTS",
-      "downloadNumbers": "444 DOWNLOADS",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
-       
+      "image_link": "https://iili.io/H0WkGWP.jpg",
+      "title": "CarX-Street 7",
+        "text_Content": "The game also features a variety of tracks to race on, ranging from closed circuit tracks to open-world environments. Each track has its own unique layout and characteristics, providing a different challenge for the player. In addition, players can also customize their cars with a wide range of upgrades and tuning options, allowing them to fine-tune their vehicle to their liking.",
+        "text_Content_1": "."
+
+
+
+      
     }
   ], "Apps": [
     {
@@ -182,5 +212,4 @@
 
     }
   ]
- 
   }
